@@ -82,6 +82,6 @@ The small size of the dataset may limit the model's generalizability and the dep
 
 ### Conclusion 
 
-TThe analysis highlights pivotal aspects such as the influence of age, resting blood pressure anomalies, cholesterol levels, and thalassemia on the likelihood of heart attacks. The logistic regression model, through commendable accuracy, stands as a valuable tool for predicting and understanding cardiovascular risks. The project not only contributes to early detection efforts but also enhances our overall understanding of the complex interplay of factors contributing to heart health, offering valuable insights for healthcare professionals and policymakers aiming to mitigate the impact of cardiovascular diseases worldwide.
+The analysis highlights pivotal aspects such as the influence of age, resting blood pressure anomalies, cholesterol levels, and thalassemia on the likelihood of heart attacks. The logistic regression model, through commendable accuracy, stands as a valuable tool for predicting and understanding cardiovascular risks. The project not only contributes to early detection efforts but also enhances our overall understanding of the complex interplay of factors contributing to heart health, offering valuable insights for healthcare professionals and policymakers aiming to mitigate the impact of cardiovascular diseases worldwide.
 
 
