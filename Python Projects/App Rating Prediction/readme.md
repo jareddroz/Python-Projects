@@ -25,7 +25,7 @@ The "App Rating Prediction" project endeavors to develop a model capable of pred
 
 ### Tools
     
-   - Python - Data Cleaning, Data Visualization, Exploratory data analysis (EDA), Data Preprocessing, Model Building
+   - Python - Data Cleaning, Data Visualization, Exploratory Data Analysis (EDA), Data Preprocessing, Model Building
    
 
 
