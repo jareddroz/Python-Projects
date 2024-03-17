@@ -25,7 +25,7 @@ The "Restaurant Revelations" project aims to improve a restaurant website's user
 
 ### Tools
     
-   - Python - Data Cleaning, Data Visualization, Exploratory data analysis (EDA)
+   - Python - Data Cleaning, Data Visualization, Exploratory Data Analysis (EDA)
    
 
 ### Data Cleaning and Preparation 
