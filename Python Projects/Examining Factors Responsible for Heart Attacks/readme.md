@@ -25,7 +25,7 @@ The project "Examining Factors Responsible for Heart Attacks," is dedicated to c
 
 ### Tools
     
-   - Python - Data Cleaning, Data Visualization, Exploratory data analysis (EDA), Data Preprocessing, Model Building
+   - Python - Data Cleaning, Data Visualization, Exploratory Data Analysis (EDA), Data Preprocessing, Model Building
    
 
 
